@@ -1,5 +1,5 @@
 
-# Simple Go Server for Static Content
+# Web Server using Go for Static Content
 This is a simple Go project that serves static content like HTML, CSS, and JS files. It provides a bare-bones foundation for building small web applications without using external frameworks.
 
 ## Features
@@ -11,19 +11,19 @@ This is a simple Go project that serves static content like HTML, CSS, and JS fi
 # Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simple-go-server.git
+git clone https://github.com/manvitha2004/WebServer-GoLang.git
 ```
 
 2. Build the project:
 ```bash
-cd simple-go-server
+cd Webserver-GoLang
 ```
 ```bash
 go build
 ```
 3. Run the server:
 ```bash
-./simple-go-server
+./Webserver-GoLang
 ```
 
 
